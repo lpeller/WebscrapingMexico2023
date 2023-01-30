@@ -1,0 +1,76 @@
+Azcapotzalco,Ciudad de Mexico
+Coyoacan,Ciudad de Mexico
+Cuajimalpa De Morelos,Ciudad de Mexico
+Gustavo A Madero,Ciudad de Mexico
+Iztacalco,Ciudad de Mexico
+Iztapalapa,Ciudad de Mexico
+La Magdalena Contreras,Ciudad de Mexico
+Milpa Alta,Ciudad de Mexico
+Alvaro Obregon,Ciudad de Mexico
+Tlahuac,Ciudad de Mexico
+Tlalpan,Ciudad de Mexico
+Xochimilco,Ciudad de Mexico
+Benito Juarez,Ciudad de Mexico
+Cuauhtemoc,Ciudad de Mexico
+Miguel Hidalgo,Ciudad de Mexico
+Venustiano Carranza,Ciudad de Mexico
+Tizayuca,Hidalgo
+Acolman,Estado de Mexico
+Amecameca,Estado de Mexico
+Apaxco,Estado de Mexico
+Atenco,Estado de Mexico
+Atizapan de Zaragoza,Estado de Mexico
+Atlautla,Estado de Mexico
+Axapusco,Estado de Mexico
+Ayapango,Estado de Mexico 
+Coacalco de Berriozabal,Estado de Mexico
+Cocotitlan,Estado de Mexico
+Coyotepec,Estado de Mexico
+Cuautitlan,Estado de Mexico
+Chalco,Estado de Mexico
+Chiautla,Estado de Mexico
+Chicoloapan,Estado de Mexico
+Chiconcuac,Estado de Mexico
+Chimalhuacan,Estado de Mexico
+Ecatepec de Morelos,Estado de Mexico
+Ecatzingo,Estado de Mexico
+Huehuetoca,Estado de Mexico
+Hueypoxtla,Estado de Mexico
+Huixquilucan,Estado de Mexico
+Isidro Fabela,Estado de Mexico
+Ixtapaluca,Estado de Mexico
+Jaltenco,Estado de Mexico
+Jilotzingo,Estado de Mexico
+Juchitepec,Estado de Mexico
+Melchor Ocampo,Estado de Mexico
+Naucalpan de Juarez,Estado de Mexico
+Nezahualcoyotl,Estado de Mexico
+Nextlalpan,Estado de Mexico
+Nicolas Romero,Estado de Mexico
+Nopaltepec,Estado de Mexico
+Otumba,Estado de Mexico
+Ozumba,Estado de Mexico
+Papalotla,Estado de Mexico
+La Paz,Estado de Mexico
+San Martin de las Piramides,Estado de Mexico
+Tecamac,Estado de Mexico
+Temamatla,Estado de Mexico
+Temascalapa,Estado de Mexico
+Tenango del Aire,Estado de Mexico
+Teoloyucan,Estado de Mexico
+Teotihuacan,Estado de Mexico
+Tepetlaoxtoc,Estado de Mexico
+Tepetlixpa,Estado de Mexico
+Tepotzotlan,Estado de Mexico
+Tequixquiac,Estado de Mexico
+Texcoco,Estado de Mexico
+Tezoyuca,Estado de Mexico
+Tlalmanalco,Estado de Mexico
+Tlalnepantla de Baz,Estado de Mexico
+Tultepec,Estado de Mexico
+Tultitlan,Estado de Mexico
+Villa del Carbon,Estado de Mexico
+Zumpango,Estado de Mexico
+Cuautitlan Izcalli,Estado de Mexico
+Valle de Chalco Solidaridad,Estado de Mexico
+Tonanitla,Estado de Mexico
